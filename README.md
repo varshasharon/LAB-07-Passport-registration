@@ -21,10 +21,24 @@ Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
 
+### UML DIAGRAMS:
 
+#### USE CASE DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/f2292b10-f9f8-40aa-9b78-7f66f7b3bd0d)
 
+#### CLASS DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/0c69f31b-e579-4166-9fff-081ad6f8d81e)
 
+#### ACTIVITY DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/e52cc952-dea1-431d-a852-6089cb402464)
 
+#### SEQUENCE DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/3715c332-057d-47ff-a7b1-4129ffa099c7)
+
+#### COMMUNICATION DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/8ed36207-caff-44da-acbd-d22378bc72ce)
+
+#### PACKAGE DIAGRAM
 
 
 ### RESULT:
