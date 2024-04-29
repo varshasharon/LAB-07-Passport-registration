@@ -39,6 +39,7 @@ Star UML
 ![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/8ed36207-caff-44da-acbd-d22378bc72ce)
 
 #### PACKAGE DIAGRAM
+![image](https://github.com/varshasharon/LAB-07-Passport-registration/assets/98278161/0d040566-87cd-4076-b9c6-06d505ff98d2)
 
 
 ### RESULT:
